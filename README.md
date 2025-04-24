@@ -41,6 +41,10 @@ A full-stack real-time chat application built with React Native (Expo) for the f
 - Android Studio (for Android development)
 - Xcode (for iOS development, macOS only)
 
+
+## Prview
+https://github.com/user-attachments/assets/0da339df-4bd7-48f8-a367-6c0644a2db1f
+
 ### Installation
 
 1. Clone the repository:
